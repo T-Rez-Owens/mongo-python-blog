@@ -1,1 +1,1 @@
-import python.python
+import python.app
