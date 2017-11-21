@@ -1,0 +1,1 @@
+mongoimport --drop -d test -c grades json/grades.json
